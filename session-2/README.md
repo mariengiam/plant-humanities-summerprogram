@@ -16,17 +16,27 @@ layout="vertical">
 
 How do we *italicise* words?
 
-How do we 
+How do we **bold* words
+
+How do we ***bold and italicise***
+
+Parenthesis to <hyperlinking something>
 
 This is a paragraph with a footnote.[^1] This is another footnote.[^2]
 
-This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+This is a filler paragraph with image from github. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+
+<param ve-image
+	   src="gh:mariengiam/plant-humanities-summerprogram/main/session-2/Camelliasinensisimage.jpg"
+	   caption="Camellia sinensis">
+	   
+This is a filler paragraph for an image from wikimedia commons. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
 <param ve-image
 	   src="gh:mariengiam/plant-humanities-summerprogram/main/session-2/Camelliasinensisimage.jpg"
 	   caption="Camellia sinensis">
 
-This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+This is a filler paragraph that illustrates contrasting images. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
 <param ve-compare
                src="wc:Tea_Time_by_Edward_Percy_Moran.jpg"
@@ -51,8 +61,10 @@ This is an extract from Robert Fortune's journal which he wrote while traveling 
                src="https://archive.org/details/mobot31753002814280/page/n17">
 			   
 
+This is an example of a timeline. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
-
+<param ve-iframe
+		src="iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRdOWQdhGifdcmMHkJjcuAJRBtYSVXai_Owl41YvI2E2RobaIXy8OWMv45KeKrRzgzeJMVAd0XVIgM5&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe">
 
 [^1]: This is the first footnote.
 [^2]: This is the second footnote.
