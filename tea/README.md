@@ -18,3 +18,5 @@ What is "tea"? From black tea to herbal tisanes and "boba" tea, the term "tea" h
 			   end="5:13">
 
 There are two species of the tea plant grown today: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*. While popular infusions like chamomile, rooibos and peppermint are all marketed as "tea", they are herbal infusions of other plants, and do not derive from the camellia sinensis plant. Tea plant - Camellia sinensis | Plants | Kew
+
+<param ve-image manifest="wc:Camellia_sinensis_(14334188917).jpg">
