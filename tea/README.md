@@ -10,7 +10,7 @@ layout="vertical">
 
 # What is "tea"?
 
-What is "tea"? From black tea to herbal tisanes and "boba" tea, the word "tea" has come to encapsulate a variety of different colloquial, cultural and generational meanings. At its most basic, tea refers to a beverage prepared by pouring hot water over leaves from the tea plant, the *Camellia sinensis*, native to East Asia, the Indian Subcontinent and Southeast Asia. From the tea plant, 6 major types of tea are produced: black tea, white tea, oolong tea, green tea, dark and pu-er tea, all of which requires different processing methods. 
+The word "tea" has come to encapsulate a variety of different colloquial, cultural and generation-specific meanings. At its most basic, tea refers to a beverage prepared by pouring hot water over leaves from the tea plant, the *Camellia sinensis*, native to East Asia, the Indian Subcontinent and Southeast Asia. From the tea plant, 6 major types of tea are produced: black tea, white tea, oolong tea, green tea, dark and pu-er tea, all of which requires different processing methods. 
 
 <param ve-video
                src="lAYRZeDJ4Pc"
@@ -23,4 +23,17 @@ There are two species of the tea plant grown today: the *Camellia sinensis var. 
 	   src="wc:Camellia_sinensis_(14334188917).jpg"
 	   caption="Camellia sinensis">
 	   
-	
+# *Camellia sinensis*
+
+
+There are two varies of Camellia sinensis: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*, with the latter getting its name from the Assam region of northeastern India where is it widespread. Both varieties are different in appearance: while the Camellia sinensis var. sinensis has leaves that are more tender and small, the leaves of the Camellia sinensis var. assamica are larger and more robust. In terms of taste, tea produced by processing leaves of the camellia sinensis var. sinensis plant are known to have "flora, fruity and sometimes sweet notes" whereas tea of the Assam variety are often charaterised as being "stronger, bolder and darker". (Sinensis Vs. Assamica – Young Mountain Tea). 
+
+<param ve-image
+	   src="wc:Camellia_sinensis_(14334188917).jpg"
+	   caption="Camellia sinensis">
+
+
+
+
+
+
