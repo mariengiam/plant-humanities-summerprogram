@@ -62,9 +62,11 @@ src="https://www.smithsonianmag.com/smart-news/archaeologists-find-worlds-oldest
 
 ### Tea rituals, ceremonies, material culture
 
-As tea consumption became popularised, so too did rituals and ceremonies associated with tea, together with their material cultures. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea varied in shape and form, as tea spread to Japan, Europe, the Middle East and the Americas through trade, migration and colonialism. 
+As tea consumption became popularised, so too did rituals and ceremonies associated with tea, together with their material cultures. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea varied in shape and form, as tea spread to Japan, Europe, the Middle East and the Americas through trade, migration and colonialism. This needs more work. 
 
 ### Dutch curiosity: Early European encounters with tea
 
-Dutch East India Company merchants and affiliates were crucial to the spreading of knowledge about and stimulating interest in tea and tea drinking, particularly during the 17th and 18th centuries.
+Dutch East India Company merchants and affiliates were crucial to the spreading of knowledge about and stimulating interest in tea and tea drinking, particularly during the 17th and 18th centuries. This needs to be completed. 
+
+[^1] The Japanese Way of Tea: From Its Origins in China to Sen Rikyu pp4-6
 
