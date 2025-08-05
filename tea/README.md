@@ -10,7 +10,7 @@ layout="vertical">
 
 ### Tea and the *Camellia sinensis*
 
-"Tea" has come to encapsulate a variety of different colloquial, cultural meanings, and even meanings specific to particular generations. At its most basic, tea refers to a beverage prepared by pouring hot water over leaves from the tea plant, the *Camellia sinensis*, native to East Asia, the Indian Subcontinent and Southeast Asia. From the tea plant, six major types of tea are produced: black tea, white tea, oolong tea, green tea, dark and pu-er tea, all of which requires different processing methods. 
+"Tea" has come to encapsulate a multitude of meanings: colloquial, cultural and even meanings specific to particular generations of people. At its most basic, tea refers to a beverage prepared by pouring hot water over leaves from the tea plant, the *Camellia sinensis*, native to East Asia, the Indian Subcontinent and Southeast Asia. From the tea plant, six major types of tea are produced: black tea, white tea, oolong tea, green tea, dark and pu-er tea, all of which requires different processing methods. 
 
 <param ve-video
                src="lAYRZeDJ4Pc"
