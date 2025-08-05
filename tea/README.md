@@ -17,7 +17,7 @@ layout="vertical">
 			   start="4:12"
 			   end="5:13">
 	   
-There are [two varieties](https://www.kew.org/plants/tea-plant) of *Camellia sinensis*: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*, with the latter getting its name from the Assam region of northeastern India where is it widespread. Both varieties are [different](https://youngmountaintea.com/blogs/blog/sinensis-vs-assamica?srsltid=AfmBOopAsEJoRXVYSxncbVLeMiiXHkEyZdQrs8JUjWVd7lYo2b8VFkB-) in appearance: while the Camellia sinensis var. sinensis has leaves that are more tender and small, the leaves of the Camellia sinensis var. assamica are larger and more robust. In terms of taste, tea produced by processing leaves of the camellia sinensis var. sinensis plant are known to have "flora, fruity and sometimes sweet notes" whereas tea of the Assam variety are often charaterised as being "stronger, bolder and darker". Popular "teas" like chamomile, rooibos and peppermint do not derive from the *Camellia sinensis* plant but rather, are herbal infusions of other plants.
+There are [two varieties](https://www.kew.org/plants/tea-plant) of *Camellia sinensis*: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*, with the latter getting its name from the Assam region of northeastern India where is it widespread. Both varieties are [different](https://youngmountaintea.com/blogs/blog/sinensis-vs-assamica?srsltid=AfmBOopAsEJoRXVYSxncbVLeMiiXHkEyZdQrs8JUjWVd7lYo2b8VFkB-) in appearance: while the Camellia sinensis var. sinensis has leaves that are more tender and small, the leaves of the Camellia sinensis var. assamica are larger and more robust. In terms of taste, tea produced by processing leaves of the camellia sinensis var. sinensis plant are known to have "flora, fruity and sometimes sweet notes" whereas tea of the Assam variety are often characterised as being "stronger, bolder and darker". Popular "teas" like chamomile, rooibos and peppermint do not derive from the *Camellia sinensis* plant but rather, are herbal infusions of other plants.
 
 <param ve-compare
                src="wc:Csinensis.jpg"
@@ -33,12 +33,12 @@ The first recorded instance of the word tea in English appeared in 1658 in the *
 	   src="wc:Garraway%27s_Coffee_House.jpg"
 	   caption="Thomas Garraway's coffee-house in London">
 
-The transliteration of the Chinese character for tea "茶" was "tcha", or cha but "tay" was not, as Garroway thought, a translation of "tcha" into a different language. Rather "tay" was a spoken variation of the Chinese character "茶" in Fujianese, a dialect commonly spoken among in the Chinese in the Southern Chinese province of Fujian, a historically important trading port. 
+The transliteration of the Chinese character for tea "茶" was "tcha", or cha but "tay" was not, as Garroway thought, a translation of "tcha" into a different language. Rather "tay" was a spoken variation of the Chinese character "茶" in Hokkien, a dialect commonly spoken among in the Chinese in the Southern Chinese province of Fujian, a historically important trading port. 
 
 <param ve-video
-               src="lAYRZeDJ4Pc"
-			   start="4:12"
-			   end="5:13">
+               src="6bTkMUgqtIo"
+			   start="0:00"
+			   end="0:20">
 	   
 In the seventeenth century, Dutch merchants trading in the Southern Chinese province of Fujian must have encountered local Fujianese merchants using the dialect term "tay" instead of "cha". It is possible they adopted this term. "Tay" was absorbed into the Dutch lexicon as "thee" which was pronounced exactly the same way as the Fujianese would have pronounced "tay". In turn the English borrowed directly from the Dutch word "thee", to become "tea". 
 
