@@ -62,7 +62,7 @@ src="https://www.smithsonianmag.com/smart-news/archaeologists-find-worlds-oldest
 
 ### Material culture of tea: cups and vessels 
 
-As tea drinking spread, so too did tea drinking vessels and equipment. Although tea was initially drunk from from handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea transformed in shape and size, as tea spread to Japan, Europe, the Middle East and the Americas through trade, migration and colonialism. 
+As tea consumption became popularised, so too did rituals and ceremonies associated with tea, together with their material cultures. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea varied in shape and form, as tea spread to Japan, Europe, the Middle East and the Americas through trade, migration and colonialism. 
 
 ### Dutch curiosity: Early European encounters with tea
 
