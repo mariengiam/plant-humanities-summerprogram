@@ -48,19 +48,19 @@ In the seventeenth century, Dutch merchants trading in the Southern Chinese prov
 
 ### The practice of tea drinking
 
-The practice of tea drinking originates in China and the Chinese attribute the "discovery" of tea consumption to the mythological figure, Shennong, the Divine Husbandman (2737–2697 BCE), also believed to be the first Chinese emperor. This painting on the right, by the sixteenth century Ming dynasty painter, Guo Xu (1456–1532), depicts Shennong tasting the leaves of the *Camellia sinensis* plant for its medicinal value. That Shennong was a healer who was interested in plants of medicinal value is corroborated by the father of the Chinese *bencao* medical tradition, Li Shizhen, in his *Bencao gangmu* (Compendium of Materia Medica) who claims that the mythical Shennong tasted hundreds of plants in a search for ones of medicinal value. 
+The practice of tea drinking originates in China and the Chinese attribute the "discovery" of tea consumption to the mythological figure, Shennong, the Divine Husbandman (2737–2697 BCE). This painting on the right, by the sixteenth century Ming dynasty painter, Guo Xu (1456–1532), depicts Shennong tasting the leaves of the *Camellia sinensis* plant for its medicinal value. That Shennong was a healer who was interested in plants of medicinal value is corroborated by the father of the Chinese *bencao* medical tradition, Li Shizhen, in his *Bencao gangmu* (Compendium of Materia Medica) who claims that Shennong tasted hundreds of plants in a search for ones of medicinal value.[^1]
 
 <param ve-image
 	   src="wc:Guo_Xu_album_dated_1503_(2).jpg"
 	   caption="Shennong tasting herbs">
 
-The earliest known physical evidence of tea being consumed was in the second century BC. Archaeologists discovered a mass of partially-decomposed plants, which scientists identified as tea, in the mausoleum of Emperor Jing of Han in Xi'an who ruled China over 2000 years ago. This finding indicates that tea from the Camellia sinensis was being consumed by Chinese emperors as early as the second century BC. 
+The earliest known physical evidence of tea being consumed was in the second century BC. Archaeologists discovered a mass of partially-decomposed plants, which scientists identified as tea, in the mausoleum of Emperor Jing of Han in Xian who ruled China over 2000 years ago. This finding indicates that tea from the *Camellia sinensis* was being consumed by Chinese emperors as early as the second century BC. 
 
 <param ve-iframe
 src="https://www.smithsonianmag.com/smart-news/archaeologists-find-worlds-oldest-tea-tomb-han-dynasty-emperor">
 
 
-### Material culture of tea: cups and vessels 
+### Tea rituals, ceremonies, material culture
 
 As tea consumption became popularised, so too did rituals and ceremonies associated with tea, together with their material cultures. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea varied in shape and form, as tea spread to Japan, Europe, the Middle East and the Americas through trade, migration and colonialism. 
 
