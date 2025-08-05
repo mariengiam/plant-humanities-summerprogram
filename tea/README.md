@@ -28,9 +28,18 @@ There are two species of the tea plant grown today: the *Camellia sinensis var. 
 
 There are two varies of Camellia sinensis: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*, with the latter getting its name from the Assam region of northeastern India where is it widespread. Both varieties are different in appearance: while the Camellia sinensis var. sinensis has leaves that are more tender and small, the leaves of the Camellia sinensis var. assamica are larger and more robust. In terms of taste, tea produced by processing leaves of the camellia sinensis var. sinensis plant are known to have "flora, fruity and sometimes sweet notes" whereas tea of the Assam variety are often charaterised as being "stronger, bolder and darker". (Sinensis Vs. Assamica – Young Mountain Tea). 
 
-<param ve-image
-	   src="wc:Camellia_sinensis_(14334188917).jpg"
-	   caption="Camellia sinensis">
+<param ve-compare
+               src="wc:Tea_Time_by_Edward_Percy_Moran.jpg"
+               caption="Contemporary and historical depictions of tea">
+<param ve-compare
+               src="wc:Tea_MET_DP224415.jpg">
+
+# Where does the word "tea" derive from?
+
+The first recorded instance of the word "tea" in English appeared in 1658 in the Mercurius Politicus, an English newspaper. Calling it the "China drink", Thomas Garroway in advertising the qualities of tea on behalf of his coffee-house wrote about:
+
+"That excellent and by all Physicians, approved, China drink, called by the Chineans Tcha, by other nations Tay alias Tee, is sold at the Sultaness Head Coffee-House, in Sweetings Rents, by the Royal Exchange, London." 
+
 
 
 
