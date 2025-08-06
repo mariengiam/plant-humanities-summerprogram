@@ -54,7 +54,7 @@ The practice of tea drinking originates in China and the Chinese attribute the "
 	   src="wc:Guo_Xu_album_dated_1503_(2).jpg"
 	   caption="Shennong tasting herbs">
 
-The earliest known physical evidence of tea being consumed was in the second century BC. Archaeologists discovered a mass of partially-decomposed plants, which scientists identified as tea, in the mausoleum of Emperor Jing of the Han Dynasty in Xian who ruled China over 2000 years ago. This finding indicates that tea from the *Camellia sinensis* was being consumed by Chinese emperors as early as the second century BC. 
+The earliest known physical evidence of tea being consumed was in the second century BC. Archaeologists discovered a mass of partially-decomposed plants, which scientists identified as tea, in the mausoleum of [Emperor Jing of the Han Dynasty](https://www.smithsonianmag.com/smart-news/archaeologists-find-worlds-oldest-tea-tomb-han-dynasty-emperor-180957790/) in Xian who ruled China over 2000 years ago. This finding indicates that tea from the *Camellia sinensis* was being consumed by Chinese emperors as early as the second century BC. 
 
 <param ve-image
 	   src="wc:Xian-Yangling-34-Figuren-2012-gje.jpg"
@@ -62,17 +62,17 @@ The earliest known physical evidence of tea being consumed was in the second cen
 
 ### Tea rituals, ceremonies, material culture
 
-As tea consumption became popularised, so too did rituals and ceremonies associated with tea, together with their material cultures. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea varied in shape and form, as tea spread to Japan, Europe, the Middle East and the Americas through trade, migration and colonialism. This needs more work. End with afternoon tea: a quintessentially British tradition, popularised today. 
+As tea consumption spread, so too did rituals and ceremonies associated with tea, together with their material cultures develop. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea multiplied in shape and form. In Japan, ceramicware was used for the [*chanoyu*](https://www.metmuseum.org/essays/the-japanese-tea-ceremony): a Japanese ceremonial ritual of tea preparation and consumption, in a specialised space with codified procedures. In Europe, the popularity of Chinese blue and white *jingdezhen* porcelain led to the creation of Delftware, a type of tin-glazed earthenware, and finally to the success of ["hardpaste"](https://en.wikipedia.org/wiki/Hard-paste_porcelain) porcelain in Meissen, Germany. Today, the revived and much popularised British tradition of afternoon tea with scones, cake, sandwiches and tea (of course!) reminds us of the various ways in which traditions and rituals have survived, but also transformed in the process.
 
 ### Dutch curiosity: Early European encounters with tea
 
-Dutch East India Company (VOC) merchants and affiliates were crucial to the spread of tea to the rest of Europe. News about tea drinking as well as the commodity itself came to British Isles through Dutch literary sources and directly from their trade with Dutch merchants.[^2] As Markman Ellis remarks, "tea sociability was a conspicuous aspect of Dutch influence on British social life."[^3] Since 1609, the Japanese granted the VOC trading rights with Japan via the island of Deshima, becoming the only Europeans to successfully establish a trading post in Japan. Through their presence in Japan, they were also able to gain a foothold to the China trade, including the trade in tea. Thus, they became the first Europeans to import tea into Europe from Asia. 
+Dutch East India Company (VOC) merchants and affiliates were crucial to the spread of tea to the rest of Europe. News about tea drinking as well as the commodity itself came to British Isles through Dutch literary sources and directly from their trade with Dutch merchants.[^2] As Markman Ellis remarks, "tea sociability was a conspicuous aspect of Dutch influence on British social life."[^3] Since 1609, the Japanese granted the VOC trading rights with Japan via the island of Deshima, becoming the only Europeans to successfully establish a trading post in Japan. Through their presence in Japan, they were also able to gain a foothold to the China trade, including the trade in tea. Thus, they became the first Europeans to import tea into Europe from Asia.
 
 <param ve-image
 	   src="wc:Plattegrond_van_Deshima.jpg"
 	   caption="Map of the Island of Deshima">
 
-On 2 October 1609, the first batch of tea consisting of tea leaves and green powdered tea, set sail to Holland on the Rood Leeuw met Piljen ‘red lion with arrows’, via the Dutch controlled port of Bantam, Indonesia.[^4] (p312 Tale of Tea) The Dutch would continue to monopolise the trade in tea until the end of the 17th century. The English merchant, William Milburn duly noted that:
+On 2 October 1609, the first batch of tea consisting of tea leaves and green powdered tea, set sail to Holland on the *Rood Leeuw met Piljen* (red lion with arrows), via the Dutch controlled port of Bantam, Indonesia.[^4] The Dutch would continue to monopolise the trade in tea until the end of the 17th century. The English merchant, William Milburn thus noted that:
 
 <param ve-image
 	   src="wc:Kist_met_negen_flessen-Rijksmuseum_NG-444.jpeg"
@@ -86,16 +86,16 @@ The English would continue to rely on the Dutch for their supply of tea either f
 	   src="wc:Beschrijving_van_Japan_-_thee.jpg"
 	   caption="Storing, processing and drinking tea from Kaempfer’s *History of Japan*">
 	   
-Dutch physicians and medical writers were also interested in the medicinal qualities and effects of tea on human physiology. Apart from Kaempfer, other writers include Nicolaes Tulp (1593–1674), Cornelis Bontekoe (1640–1685) and William Ten Rhijne. As Kaempfer’s predecessor, William Ten Rhijne wrote the first detailed study of tea, *De Frutice Thee* "On the tea bush", published in 1678 as an appendix to Dutch merchant and naturalist Jacob Breyne’s treatise, *Exoticum plantarum centuria prima* "First Century of Exotic Plants". Ten Rhijne’s *De Fructice Thee* includes a long section extolling the "virtues of tea", where he observed that tea noting that tea "…purifies the blood, drives away dreadful sleeplessness, wards off malicious vapors from the brain, mitigates vertigo and headaches (especially those arising from a hangover), and is beneficial for dropsy patients, for it is an excellent diuretic." 
+Dutch physicians and medical writers were also interested in the medicinal qualities and effects of tea on human physiology. Apart from Kaempfer, other writers include Nicolaes Tulp (1593–1674), Cornelis Bontekoe (1640–1685) and William Ten Rhijne. As Kaempfer’s predecessor, William Ten Rhijne wrote the first detailed study of tea, *De Frutice Thee* (On the tea bush), published in 1678 as an appendix to Dutch merchant and naturalist Jacob Breyne’s treatise, *Exoticum plantarum centuria prima* "First Century of Exotic Plants". Ten Rhijne’s *De Fructice Thee* includes a long section extolling the "virtues of tea", where he observed that tea noting that tea "…purifies the blood, drives away dreadful sleeplessness, wards off malicious vapors from the brain, mitigates vertigo and headaches (especially those arising from a hangover), and is beneficial for dropsy patients, for it is an excellent diuretic." 
 
 <param ve-iframe
 src="https://archive.org/details/pbc.gda.pl.503002_Centuria_prima_Jacobi_Breynii_Gedani_1678_____/page/n256/mode/2up">
 
-[^1] *The Japanese Way of Tea: From Its Origins in China to Sen Rikyu* pp4-6
-[^2] *Tale of Tea*, 312. 
-[^3] Markman Ellis, The British Way of Tea
-[^4] *Tale of Tea*, 312. 
-[^5] William Milburn, *Oriental Commerce*, vol 2
-[^6] Kirti Narayan Chaudhuri 1978, The Trading World of Asia and the English EIC 1660-1760
-[^7] *Tale of Tea*, 312. 
+[^1]: Sen Soshitsu, *The Japanese Way of Tea: From Its Origins in China to Sen Rikyu*, 4-6.
+[^2]: George van Driem, *Tale of Tea*, 312. 
+[^3]: Markman Ellis, The British Way of Tea: Tea as an Obect of Knowledge Between Britain and China, 1690-1730
+[^4]: George van Driem, *Tale of Tea*, 312. 
+[^5]: William Milburn, *Oriental Commerce: Containing a Geographical Description of the Principal Places in the East Indies, China, and Japan, with Their Produce, Manufactures, and Trade*, vol 2
+[^6]: Kirti Narayan Chaudhuri,*The Trading World of Asia and the English EIC 1660-1760* 1978
+[^7]: George van Driem, *Tale of Tea*, 312.
 
