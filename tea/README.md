@@ -70,7 +70,7 @@ Dutch East India Company (VOC) merchants and affiliates were crucial to the spre
 
 <param ve-image
 	   src="wc:Plattegrond_van_Deshima.jpg"
-	   caption="The Dutch in Deshima">
+	   caption="Map of the Island of Deshima">
 
 On 2 October 1609, the first batch of tea consisting of tea leaves and green powdered tea, set sail to Holland on the Rood Leeuw met Piljen ‘red lion with arrows’, via the Dutch controlled port of Bantam, Indonesia.[^4] (p312 Tale of Tea) The Dutch would continue to monopolise the trade in tea until the end of the 17th century. The English merchant, William Milburn duly noted that:
 
@@ -98,6 +98,4 @@ src="https://archive.org/details/pbc.gda.pl.503002_Centuria_prima_Jacobi_Breynii
 [^5] William Milburn, *Oriental Commerce*, vol 2
 [^6] Kirti Narayan Chaudhuri 1978, The Trading World of Asia and the English EIC 1660-1760
 [^7] *Tale of Tea*, 312. 
-[^8]
-[^9]
-[^10]
+
