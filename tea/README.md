@@ -8,6 +8,7 @@ height=100
 author="Ciel Haviland, Marie Ngiam, Thais Perez"
 layout="vertical">
 
+
 ### Tea and the *Camellia sinensis*
 
 "Tea" has come to encapsulate a multitude of meanings: colloquial, cultural and even meanings specific to particular generations of people. At its most basic, tea refers to a beverage prepared by pouring hot water over leaves from the tea plant, the *Camellia sinensis*, native to East Asia, the Indian Subcontinent and Southeast Asia. From the tea plant, six major types of tea are produced: black tea, white tea, oolong tea, green tea, dark and pu-er tea, all of which requires different processing methods. 
@@ -62,7 +63,7 @@ The earliest known physical evidence of tea being consumed was in the second cen
 
 ### Tea and material culture: rituals, ceremonies, traditions
 
-As tea consumption spread, so too did rituals and ceremonies associated with tea. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea multiplied in shape and form. In Japan, ceramicware was used for the [*chanoyu*](https://www.metmuseum.org/essays/the-japanese-tea-ceremony): a Japanese ceremonial ritual of tea preparation and consumption, in a specialised space with codified procedures. In Europe, the popularity of Chinese blue and white *jingdezhen* porcelain led to the creation of Delftware, a type of tin-glazed earthenware, and finally to the success of ["hardpaste"](https://en.wikipedia.org/wiki/Hard-paste_porcelain) porcelain in Meissen, Germany. Today, the revived and much popularised British tradition of afternoon tea with scones, cake, sandwiches and tea (of course!) reminds us of the various ways in which traditions and rituals survive and revive, and the transformations that take place in the process.
+As tea consumption spread, so too did rituals and ceremonies associated with tea. From handleless cups with a wide circumference used for both its preparation and consumption, vessels used to drink tea multiplied in shape and form. In Japan, ceramicware was used for the [*chanoyu*](https://www.metmuseum.org/essays/the-japanese-tea-ceremony): a Japanese ceremonial ritual of tea preparation and consumption, in a specialised space with codified procedures. In Europe, the popularity of Chinese blue and white [*jingdezhen* porcelain](https://en.wikipedia.org/wiki/Jingdezhen_porcelain) led to the creation of Delftware, a type of tin-glazed earthenware, and finally to the success of ["hardpaste"](https://en.wikipedia.org/wiki/Hard-paste_porcelain) porcelain in Meissen, Germany. Today, the revived and much popularised British tradition of afternoon tea with scones, cake, sandwiches and tea (of course!) reminds us of the various ways in which traditions and rituals survive and revive, and the transformations that take place in the process.
 
 <param ve-iframe
 src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS_pjNfKBsp5cDpeaygWj_781L093-dSYacbSZCpq3K2P-3vTszlP7biNZC3rvRuSdtq-h-E_T2vLfD&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
