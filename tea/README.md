@@ -2,8 +2,8 @@
 
 <param ve-config 
 title="Tea"    
-source-image="https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg"   
-banner="https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg" 
+source-image="https://upload.wikimedia.org/wikipedia/commons/c/c6/Camellia_sinensis_in_Georgia.jpg"   
+banner="https://upload.wikimedia.org/wikipedia/commons/c/c6/Camellia_sinensis_in_Georgia.jpg" 
 height=100
 author="Ciel Haviland, Marie Ngiam, Thais Perez"
 layout="vertical">
@@ -17,7 +17,7 @@ layout="vertical">
 			   start="4:12"
 			   end="5:13">
 	   
-There are [two varieties](https://www.kew.org/plants/tea-plant) of *Camellia sinensis*: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*, with the latter getting its name from the Assam region of northeastern India where is it widespread. Both varieties are [different](https://youngmountaintea.com/blogs/blog/sinensis-vs-assamica?srsltid=AfmBOopAsEJoRXVYSxncbVLeMiiXHkEyZdQrs8JUjWVd7lYo2b8VFkB-) in appearance: while the *Camellia sinensis var. sinensis* has leaves that are more tender and small, the leaves of the *Camellia sinensis var. assamica* are larger and more robust. In terms of taste, tea produced by processing leaves of the Sinensis variety are known to have "flora, fruity and sometimes sweet notes" whereas tea of the Assam variety are often characterised as being "stronger, bolder and darker". Popular "teas" like chamomile, rooibos and peppermint do not derive from the *Camellia sinensis* plant but rather, are herbal infusions of other plants.
+There are [two varieties](https://www.kew.org/plants/tea-plant) of *Camellia sinensis*: the *Camellia sinensis var. sinensis* and the *Camellia sinensis var. assamica*, with the latter getting its name from the Assam region of northeastern India where is it widespread. Both varieties are [different](https://youngmountaintea.com/blogs/blog/sinensis-vs-assamica?srsltid=AfmBOopAsEJoRXVYSxncbVLeMiiXHkEyZdQrs8JUjWVd7lYo2b8VFkB-) in appearance: while the *Camellia sinensis var. sinensis* has leaves that are more tender and small, the leaves of the *Camellia sinensis var. assamica* are larger and more robust. In terms of taste, tea produced by processing leaves of the *Sinensis* variety are known to have "flora, fruity and sometimes sweet notes" whereas tea of the *Assam* variety are often characterised as being "stronger, bolder and darker". Popular "teas" like chamomile, rooibos and peppermint do not derive from the *Camellia sinensis* plant but rather, are herbal infusions of other plants.
 
 <param ve-compare
                src="wc:Csinensis.jpg"
@@ -83,13 +83,13 @@ On 2 October 1609, the first batch of tea consisting of tea leaves and green pow
 
 >"The Dutch East India Company were unquestionably the first who engaged in tea as an article of commerce; and from the beginning until near the close of the seventeenth century, the whole of European demand was supplied through the medium of their sales."[^5]
 
-The English would continue to rely on the Dutch for their supply of tea either from Batavia or from Dutch middlemen in Asia until 1717 when they began shipping tea to England directly from Canton, China.[^6] Nevertheless, tea was still a luxury item that was imported in small quantities, "one exotic commodity in an array of goods traded by the VOC."[^7] Accompanying the introduction of tea as a commodity was a curiosity in the way tea was prepared and consumed. The German naturalist Engelbert Kaempfer, who was chief surgeon of the VOC in Deshima includes a section on the tea plant in his *History of Japan*. He also provides illustrations on how tea should be stored and prepared, and utensils used in these processes. As Kaempfer was stationed in Japan when he made these observations, they provide insight into Japanese traditions of processing and drinking tea. 
+The English would continue to rely on the Dutch for their supply of tea either from Batavia or from Dutch middlemen in Asia until 1717 when they began shipping tea to England directly from Canton, China.[^6] Nevertheless, tea was still a luxury item that was imported in small quantities, "one exotic commodity in an array of goods traded by the VOC."[^7] Accompanying the introduction of tea as a commodity was a curiosity in the way tea was prepared and consumed. The German naturalist Engelbert Kaempfer (1651-1716), who was chief surgeon of the VOC in Deshima includes a section on the tea plant in his *History of Japan*. He also provides illustrations on how tea should be stored and prepared, and utensils used in these processes. As Kaempfer was stationed in Japan when he made these observations, they provide insight into Japanese traditions of processing and drinking tea. 
 
 <param ve-image
 	   src="wc:Beschrijving_van_Japan_-_thee.jpg"
 	   caption="Storing, processing and drinking tea from Kaempfer’s *History of Japan*">
 	   
-Dutch physicians and medical writers were also interested in the medicinal qualities and effects of tea on human physiology. Apart from Kaempfer, other writers include Nicolaes Tulp (1593–1674), Cornelis Bontekoe (1640–1685) and William Ten Rhijne (1647 – 1700). As Kaempfer’s predecessor, Ten Rhijne wrote the first detailed study of tea, *De Frutice Thee* (On the tea bush), published in 1678 as an appendix to Dutch merchant and naturalist Jacob Breyne’s treatise, *Exoticum plantarum centuria prima* (First Century of Exotic Plants). Ten Rhijne’s *De Fructice Thee* includes a long section extolling the "virtues of tea", where he observed that tea "…purifies the blood, drives away dreadful sleeplessness, wards off malicious vapors from the brain, mitigates vertigo and headaches (especially those arising from a hangover), and is beneficial for dropsy patients, for it is an excellent diuretic." Through these writings, knowledge about the commercial and medicinal value of tea spread together with tea drinking habits. 
+Dutch physicians and medical writers were also interested in the medicinal qualities and effects of tea on human physiology. Apart from Kaempfer, other writers include Nicolaes Tulp (1593–1674), Cornelis Bontekoe (1640–1685) and William Ten Rhijne (1647 – 1700). As Kaempfer’s predecessor, Ten Rhijne wrote the first detailed study of tea, *De Frutice Thee* (On the tea bush), published in 1678 as an appendix to Dutch merchant and naturalist Jacob Breyne’s treatise, *Exoticum plantarum centuria prima* (First Century of Exotic Plants). Ten Rhijne’s *De Fructice Thee* includes a long section extolling the "virtues of tea", where he observed that tea "…purifies the blood, drives away dreadful sleeplessness, wards off malicious vapors from the brain, mitigates vertigo and headaches (especially those arising from a hangover), and is beneficial for dropsy patients, for it is an excellent diuretic." Through these writings, knowledge about the commercial and medicinal value of tea spread together with tea drinking habits, culminating in the political and environmental legacies of the nineteenth century.
 
 <param ve-iframe
 src="https://archive.org/details/pbc.gda.pl.503002_Centuria_prima_Jacobi_Breynii_Gedani_1678_____/page/n256/mode/2up">
@@ -103,7 +103,7 @@ src="https://archive.org/details/pbc.gda.pl.503002_Centuria_prima_Jacobi_Breynii
 [^2]: George van Driem, *Tale of Tea*, 312. 
 [^3]: Markman Ellis, The British Way of Tea: Tea as an Obect of Knowledge Between Britain and China, 1690-1730
 [^4]: George van Driem, *Tale of Tea*, 312. 
-[^5]: William Milburn, *Oriental Commerce: Containing a Geographical Description of the Principal Places in the East Indies, China, and Japan, with Their Produce, Manufactures, and Trade*, vol 2
+[^5]: William Milburn, *Oriental Commerce: Containing a Geographical Description of the Principal Places in the East Indies, China, and Japan, with Their Produce, Manufactures, and Trade*, vol 2, 528. 
 [^6]: Kirti Narayan Chaudhuri,*The Trading World of Asia and the English EIC 1660-1760* 1978
 [^7]: George van Driem, *Tale of Tea*, 312.
 
